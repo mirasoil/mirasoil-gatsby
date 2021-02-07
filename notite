@@ -1,0 +1,7 @@
+GOAL 1 - Generating slugs for products (gatsby-node.js)
+
+oil.md -> oil -> /products/oil
+
+GOAL 2 - Generating the product page template
+
+GOAL 3 - Generating a new page for each product
